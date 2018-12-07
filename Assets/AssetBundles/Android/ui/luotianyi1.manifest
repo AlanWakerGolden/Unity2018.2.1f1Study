@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 79533720
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab6e6fe7e2d902cf554a5818c1df367c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- "Assets/Unity3d/Unity3D\u4E2D\u5B9E\u73B0\u52A8\u6001\u8D44\u6E90\u52A0\u8F7D/Textures/LuoTianYi1.jpg"
+Dependencies: []

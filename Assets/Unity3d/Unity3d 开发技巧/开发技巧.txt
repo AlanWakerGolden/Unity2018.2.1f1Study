@@ -1,0 +1,1 @@
+当你在Unity中编辑场景，突然死机时，可以在项目文件目录中找到Temp文件夹，双击文件夹，找到_Backupscenes文件夹，把后缀为.backup的文件后缀改为.unity，然后拖进Unity的Project界面里面，这样就可以还原死机前场景最后情况。

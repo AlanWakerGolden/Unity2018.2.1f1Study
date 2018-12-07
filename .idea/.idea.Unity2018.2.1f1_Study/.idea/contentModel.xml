@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ZhangYi\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ZhangYi\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_Unity2018.2.1f1_Study.-1708799518.00" t="ExcludeRecursive" />
+    <e p="E:\ZhangYi\Unity2018.2.1Projects\Unity2018.2.1f1_Study" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="C#" t="Include">
+          <e p="接口" t="Include">
+            <e p="银行卡的账户等级" t="Include">
+              <e p="GoldAccount.cs" t="Include" />
+              <e p="IBankAccount.cs" t="Include" />
+              <e p="IBankAdvancedAccount.cs" t="Include" />
+              <e p="SaverAccount.cs" t="Include" />
+              <e p="ShowFun.cs" t="Include" />
+            </e>
+          </e>
+          <e p="文件夹" t="Include">
+            <e p="FolderSharp.cs" t="Include" />
+          </e>
+          <e p="设计模式" t="Include">
+            <e p="Singleton" t="Include">
+              <e p="ClientEnter.cs" t="Include" />
+              <e p="GameManger_zy.cs" t="Include" />
+            </e>
+          </e>
+          <e p="重载重写" t="Include">
+            <e p="OLAOBase.cs" t="Include" />
+            <e p="OverLoadAOverride.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Camera.cs" t="Include" />
+        <e p="Editor" t="Include">
+          <e p="AssetBuilder.cs" t="Include" />
+          <e p="AutoSave.cs" t="Include" />
+        </e>
+        <e p="Unity3d" t="Include">
+          <e p="Unity3d 使用SQLLite" t="Include">
+            <e p="SQLiteDemo.cs" t="Include" />
+            <e p="SQLiteHelper.cs" t="Include" />
+          </e>
+          <e p="Unity3d 协程" t="Include">
+            <e p="IEnumeratorStudy.cs" t="Include" />
+          </e>
+          <e p="Unity3d文件下载" t="Include">
+            <e p="DownLoder.cs" t="Include" />
+          </e>
+          <e p="UnityShader" t="Include">
+            <e p="MyFirstShader.shader" t="Include" />
+            <e p="zyq.cs" t="Include" />
+          </e>
+          <e p="单例模式在场景切换中的数据保存" t="Include">
+            <e p="ClientProgram.cs" t="Include" />
+            <e p="OneSingleton.cs" t="Include" />
+            <e p="ThreeSingLeton.cs" t="Include" />
+            <e p="TwoSingLeton.cs" t="Include" />
+          </e>
+          <e p="在Unity3d中获取天气的信息" t="Include">
+            <e p="WeatherQuerier.cs" t="Include" />
+          </e>
+          <e p="扣绿幕" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="CameraCatchPlay.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="Shaders" t="Include">
+                <e p="Test.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="摄像头抖动实现" t="Include">
+            <e p="方法一" t="Include">
+              <e p="CameraShake.cs" t="Include" />
+              <e p="ExplodeStar.cs" t="Include" />
+            </e>
+            <e p="方法三插件" t="Include">
+              <e p="CameraShakeThird.cs" t="Include" />
+              <e p="EZ Camera Shake" t="Include">
+                <e p="Demo" t="Include">
+                  <e p="Sample Scripts" t="Include">
+                    <e p="ShakeByDistance.cs" t="Include" />
+                    <e p="ShakeOnKeyPress.cs" t="Include" />
+                    <e p="ShakeOnTrigger.cs" t="Include" />
+                  </e>
+                  <e p="ShakeDemo.cs" t="Include" />
+                </e>
+                <e p="Scripts" t="Include">
+                  <e p="CameraShakeInstance.cs" t="Include" />
+                  <e p="CameraShakePresets.cs" t="Include" />
+                  <e p="CameraShaker.cs" t="Include" />
+                  <e p="Utilities" t="Include">
+                    <e p="CameraUtilities.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="方法二" t="Include">
+              <e p="WithAnimationShake.cs" t="Include" />
+            </e>
+          </e>
+          <e p="查询IP地址" t="Include">
+            <e p="Client.cs" t="Include" />
+            <e p="SearchIPMsg.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="Unity2018.2.1f1_Study.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
