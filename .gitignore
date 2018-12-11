@@ -3,6 +3,9 @@
 # =============== #
 Temp/
 Library/
+.idea/
+.vs/
+.vscode/
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
@@ -18,6 +21,8 @@ obj/
 *.user
 *.unityproj
 *.booproj
+*.sln
+*.DS_Store
 
 # ============ #
 # OS generated #
