@@ -23,6 +23,7 @@ obj/
 *.booproj
 *.sln
 *.DS_Store
+*.meta
 
 # ============ #
 # OS generated #
